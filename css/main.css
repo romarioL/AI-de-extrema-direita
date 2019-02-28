@@ -1,0 +1,44 @@
+
+ body {
+ 	background-color: #FFC0CB;
+ 	font-family: monospace;
+ }
+
+ section {
+ 	margin-top: 50px;
+ 	display: flex;
+ 	justify-content: center;
+ 	text-align: center;
+ 	height: 50px;
+ 	font-size: 80px;
+ }
+section input {
+	height: 50px;
+	width: 1000px;
+	display: flex;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 40px;
+	font-family: monospace;
+	border-radius: 15px;
+	border: 5px solid #4B0082;
+}
+
+.response {
+	border: 5px solid #4B0082;
+	height: 200px;
+	width: 400px;
+	display: flex;
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.response p {
+	margin-top: auto;
+	margin-bottom: auto;
+}
